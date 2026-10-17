@@ -2,9 +2,11 @@
 
 English | [简体中文](README.zh-CN.md)
 
-1. In MarkVault Settings, export the command-line entitlement file to `~/.markvault/entitlement.jwt` (trial or paid).
-2. [Install the plugin](../../README.md), then start a new conversation.
-3. Tell the model your archive folder, shown under **Data location** in Settings. It will call `connect_archive` and remember the folder.
+1. Open **Connect AI tools** in MarkVault Settings and wait for access to be ready. A trial or active paid licence is required.
+2. Copy your tool’s install command from the card, paste it into a terminal and press Enter.
+3. Start a new conversation and say: **“Please connect my MarkVault library and count my saved bookmarks.”** It finds your archive automatically; if several are found, choose one.
+
+See the [illustrated guide](https://markvault.app/guide/ai-tools/).
 
 Claude Code needs Node.js 20 or later; Codex supplies its own Node runtime. Your saved archive stays on your computer. The plugin only writes charts when asked; replacing your entitlement file takes effect on the next call.
 
