@@ -4,7 +4,7 @@ English | [简体中文](README.zh-CN.md)
 
 Search your saved X bookmarks with the Claude or Codex desktop app, and add charts to MarkVault's Overview page. Your archive stays on your computer.
 
-1. Open **Connect AI tools** in MarkVault Settings and wait for access to be ready. A trial or active paid licence is required.
+1. Open **Connect AI tools** in MarkVault Settings and confirm step 1 is ready. The access file is prepared automatically and saved inside your bookmark folder. A trial or active paid licence is required.
 2. Click **Copy repository URL** in the card, add the marketplace in your desktop app using the path below, then install `markvault`.
 3. Start a new conversation and say: **“Please connect my MarkVault library and count my saved bookmarks.”** It finds your archive automatically; if several are found, choose one.
 
