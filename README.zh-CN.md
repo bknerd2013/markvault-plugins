@@ -10,8 +10,8 @@
 
 仓库地址：`https://github.com/bknerd2013/markvault-plugins`
 
-- **Claude**：Customize → Plugins → Add → Add marketplace → Add from a repository → 粘贴地址并选择 **Use “…”** → Sync → 安装 markvault。
-- **Codex**：Plugins → ⚙ → Add → Add a marketplace → 粘贴地址到 Source → Add marketplace → Personal → 点 MarkVault 的 + 安装 markvault。
+- **Claude**：自定义 → 插件 → 添加 → 添加市场 → 从仓库添加 → 粘贴地址并选择 **使用“…”** → 同步 → 发现 → 点 Markvault 的 + 添加插件。
+- **Codex**：插件 → 添加 → 添加插件市场 → 粘贴地址到「来源」 → 添加市场 → 个人 → 点 MarkVault 的 + 安装插件。
 
 完整步骤见[图文指南](https://markvault.app/zh/guide/ai-tools/)。
 
@@ -19,63 +19,63 @@
 
 ## 安装步骤配图
 
-截图来自英文版 macOS 桌面应用，示例对话为中文。36 条是演示库的当前收藏数；你的回复会显示自己的收藏数。
+截图使用简体中文界面、中文提问和中文回复。工具名称、插件自带说明和应用尚未翻译的提示保留原文。36 条是演示库的当前收藏数；你的回复会显示自己的收藏数。
 
 ### 1. 在拾页中复制仓库地址
 
-![授权文件已就绪，复制仓库地址](https://markvault.app/img/guide/step1-card-gui-ready-zh.webp)
+![授权文件已就绪，复制仓库地址](https://markvault.app/img/guide/step1-card-gui-localized-zh.webp)
 
 ### Claude
 
-1. 打开 Add 菜单
+1. 打开“添加”菜单
 
-![打开 Add 菜单](https://markvault.app/img/guide/step2-claude-01-menu-en.webp)
+![打开“添加”菜单](https://markvault.app/img/guide/step2-claude-01-menu-zh-v2.webp)
 
-2. 填入地址，选择 Use “…” 并点击 Sync
+2. 填入地址，选择“使用”并点击“同步”
 
-![填入地址，选择 Use “…” 并点击 Sync](https://markvault.app/img/guide/step2-claude-03-url-en.webp)
+![填入地址，选择“使用”并点击“同步”](https://markvault.app/img/guide/step2-claude-03-url-zh-v2.webp)
 
-3. 在同步后的列表找到 markvault
+3. 在“发现”的“新插件”中找到 Markvault
 
-![在同步后的列表找到 markvault](https://markvault.app/img/guide/step2-claude-04-list-en.webp)
+![在“发现”的“新插件”中找到 Markvault](https://markvault.app/img/guide/step2-claude-04-list-zh-v2.webp)
 
 4. 插件 1.0.2 安装完成
 
-![插件 1.0.2 安装完成](https://markvault.app/img/guide/step2-claude-06-installed-en.webp)
+![插件 1.0.2 安装完成](https://markvault.app/img/guide/step2-claude-06-installed-zh-v2.webp)
 
 5. 新建对话，发送上方第一句话，同意工具连接
 
-![新建对话，发送上方第一句话，同意工具连接](https://markvault.app/img/guide/step3-claude-02-confirm-en.webp)
+![新建对话，发送上方第一句话，同意工具连接](https://markvault.app/img/guide/step3-claude-02-confirm-zh-v2.webp)
 
 6. 演示库回复：36 条当前收藏
 
-![演示库回复：36 条当前收藏](https://markvault.app/img/guide/step3-claude-03-count-en.webp)
+![演示库回复：36 条当前收藏](https://markvault.app/img/guide/step3-claude-03-count-zh-v2.webp)
 
 ### Codex
 
-1. 打开 Add 菜单
+1. 打开“添加”菜单
 
-![打开 Add 菜单](https://markvault.app/img/guide/step2-codex-01-menu-en.webp)
+![打开“添加”菜单](https://markvault.app/img/guide/step2-codex-01-menu-zh-v2.webp)
 
-2. 在 Source 填入地址并点击 Add marketplace
+2. 在“来源”填入地址并点击“添加市场”
 
-![在 Source 填入地址并点击 Add marketplace](https://markvault.app/img/guide/step2-codex-03-url-en.webp)
+![在“来源”填入地址并点击“添加市场”](https://markvault.app/img/guide/step2-codex-03-url-zh-v2.webp)
 
-3. 在 Personal 页签找到 MarkVault
+3. 在“个人”页签找到 MarkVault
 
-![在 Personal 页签找到 MarkVault](https://markvault.app/img/guide/step2-codex-04-list-en.webp)
+![在“个人”页签找到 MarkVault](https://markvault.app/img/guide/step2-codex-04-list-zh-v2.webp)
 
 4. 插件 1.0.2 安装完成
 
-![插件 1.0.2 安装完成](https://markvault.app/img/guide/step2-codex-06-installed-en.webp)
+![插件 1.0.2 安装完成](https://markvault.app/img/guide/step2-codex-06-installed-zh-v2.webp)
 
 5. 新建对话，发送上方第一句话，同意工具连接
 
-![新建对话，发送上方第一句话，同意工具连接](https://markvault.app/img/guide/step3-codex-02-confirm-en.webp)
+![新建对话，发送上方第一句话，同意工具连接](https://markvault.app/img/guide/step3-codex-02-confirm-zh-v2.webp)
 
 6. 演示库回复：36 条当前收藏
 
-![演示库回复：36 条当前收藏](https://markvault.app/img/guide/step3-codex-03-count-en.webp)
+![演示库回复：36 条当前收藏](https://markvault.app/img/guide/step3-codex-03-count-zh-v2.webp)
 
 ## 其他方式：终端（高级）
 
