@@ -39,9 +39,9 @@
 
 ![在“发现”的“新插件”中找到 Markvault](https://markvault.app/img/guide/step2-claude-04-list-zh-v2.webp)
 
-4. 插件 1.0.2 安装完成
+4. 插件安装完成
 
-![插件 1.0.2 安装完成](https://markvault.app/img/guide/step2-claude-06-installed-zh-v2.webp)
+![插件安装完成](https://markvault.app/img/guide/step2-claude-06-installed-zh-v2.webp)
 
 5. 新建对话，发送上方第一句话，同意工具连接
 
@@ -65,9 +65,9 @@
 
 ![在“个人”页签找到 MarkVault](https://markvault.app/img/guide/step2-codex-04-list-zh-v2.webp)
 
-4. 插件 1.0.2 安装完成
+4. 插件安装完成
 
-![插件 1.0.2 安装完成](https://markvault.app/img/guide/step2-codex-06-installed-zh-v2.webp)
+![插件安装完成](https://markvault.app/img/guide/step2-codex-06-installed-zh-v2.webp)
 
 5. 新建对话，发送上方第一句话，同意工具连接
 

@@ -39,9 +39,9 @@ Screenshots use the English interface, English questions, and English replies. T
 
 ![Find Markvault in the plugin list](https://markvault.app/img/guide/step2-claude-04-list-en-v2.webp)
 
-4. Plugin 1.0.2 installed
+4. Plugin installed
 
-![Plugin 1.0.2 installed](https://markvault.app/img/guide/step2-claude-06-installed-en-v2.webp)
+![Plugin installed](https://markvault.app/img/guide/step2-claude-06-installed-en-v2.webp)
 
 5. Start a new conversation, send the first message above, and allow the tool connection
 
@@ -65,9 +65,9 @@ Screenshots use the English interface, English questions, and English replies. T
 
 ![Find MarkVault on the Personal tab](https://markvault.app/img/guide/step2-codex-04-list-en-v2.webp)
 
-4. Plugin 1.0.2 installed
+4. Plugin installed
 
-![Plugin 1.0.2 installed](https://markvault.app/img/guide/step2-codex-06-installed-en-v2.webp)
+![Plugin installed](https://markvault.app/img/guide/step2-codex-06-installed-en-v2.webp)
 
 5. Start a new conversation, send the first message above, and allow the tool connection
 
