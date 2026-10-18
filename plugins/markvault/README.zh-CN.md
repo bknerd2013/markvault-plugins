@@ -9,7 +9,7 @@
 仓库地址：`https://github.com/bknerd2013/markvault-plugins`
 
 - **Claude**：Customize → Plugins → Add → Add marketplace → Add from a repository → 粘贴地址并选择 **Use “…”** → Sync → 安装 markvault。
-- **Codex**：Plugins → Add a marketplace → 粘贴地址 → 安装 markvault。
+- **Codex**：Plugins → ⚙ → Add → Add a marketplace → 粘贴地址到 Source → Add marketplace → Personal → 点 MarkVault 的 + 安装 markvault。
 
 完整步骤见[图文指南](https://markvault.app/zh/guide/ai-tools/)。
 
