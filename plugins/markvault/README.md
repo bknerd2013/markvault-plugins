@@ -13,7 +13,11 @@ Repository URL: `https://github.com/bknerd2013/markvault-plugins`
 
 See the [illustrated guide](https://markvault.app/guide/ai-tools/).
 
-Claude Code needs Node.js 20 or later; Codex supplies its own Node runtime. Your saved archive stays on your computer. The plugin only writes charts when asked; replacing your entitlement file takes effect on the next call.
+The repository’s [setup screenshots](../../README.md#setup-screenshots) cover both apps: menus, repository dialogs, plugin lists, installed states, first tool approvals, and demo replies.
+
+![MarkVault Connect AI tools card](https://markvault.app/img/guide/step1-card-gui-ready-en.webp)
+
+Claude’s local plugin needs Node.js 20 or later; Codex supplies its own Node runtime. Your saved archive stays on your computer. The plugin only writes charts when asked; replacing your entitlement file takes effect on the next call.
 
 ## Add charts to Overview
 
