@@ -19,63 +19,63 @@ See the [illustrated guide](https://markvault.app/guide/ai-tools/).
 
 ## Setup screenshots
 
-Screenshots show the English-language macOS desktop apps with a Chinese conversation. The 36-bookmark result is from a demo library; your reply will show your own count.
+Screenshots use the English interface, English questions, and English replies. The 36-bookmark result is from a demo library; your reply will show your own count.
 
 ### 1. Copy the repository URL in MarkVault
 
-![Access is ready: copy the repository URL](https://markvault.app/img/guide/step1-card-gui-ready-en.webp)
+![Access is ready: copy the repository URL](https://markvault.app/img/guide/step1-card-gui-localized-en.webp)
 
 ### Claude
 
 1. Open the Add menu
 
-![Open the Add menu](https://markvault.app/img/guide/step2-claude-01-menu-en.webp)
+![Open the Add menu](https://markvault.app/img/guide/step2-claude-01-menu-en-v2.webp)
 
 2. Enter the URL, choose Use “…” and click Sync
 
-![Enter the URL, choose Use “…” and click Sync](https://markvault.app/img/guide/step2-claude-03-url-en.webp)
+![Enter the URL, choose Use “…” and click Sync](https://markvault.app/img/guide/step2-claude-03-url-en-v2.webp)
 
-3. Find markvault in the synced list
+3. Find Markvault in the plugin list
 
-![Find markvault in the synced list](https://markvault.app/img/guide/step2-claude-04-list-en.webp)
+![Find Markvault in the plugin list](https://markvault.app/img/guide/step2-claude-04-list-en-v2.webp)
 
 4. Plugin 1.0.2 installed
 
-![Plugin 1.0.2 installed](https://markvault.app/img/guide/step2-claude-06-installed-en.webp)
+![Plugin 1.0.2 installed](https://markvault.app/img/guide/step2-claude-06-installed-en-v2.webp)
 
 5. Start a new conversation, send the first message above, and allow the tool connection
 
-![Start a new conversation, send the first message above, and allow the tool connection](https://markvault.app/img/guide/step3-claude-02-confirm-en.webp)
+![Start a new conversation, send the first message above, and allow the tool connection](https://markvault.app/img/guide/step3-claude-02-confirm-en-v2.webp)
 
 6. Demo reply: 36 saved bookmarks
 
-![Demo reply: 36 saved bookmarks](https://markvault.app/img/guide/step3-claude-03-count-en.webp)
+![Demo reply: 36 saved bookmarks](https://markvault.app/img/guide/step3-claude-03-count-en-v2.webp)
 
 ### Codex
 
 1. Open the Add menu
 
-![Open the Add menu](https://markvault.app/img/guide/step2-codex-01-menu-en.webp)
+![Open the Add menu](https://markvault.app/img/guide/step2-codex-01-menu-en-v2.webp)
 
 2. Enter the URL in Source and click Add marketplace
 
-![Enter the URL in Source and click Add marketplace](https://markvault.app/img/guide/step2-codex-03-url-en.webp)
+![Enter the URL in Source and click Add marketplace](https://markvault.app/img/guide/step2-codex-03-url-en-v2.webp)
 
 3. Find MarkVault on the Personal tab
 
-![Find MarkVault on the Personal tab](https://markvault.app/img/guide/step2-codex-04-list-en.webp)
+![Find MarkVault on the Personal tab](https://markvault.app/img/guide/step2-codex-04-list-en-v2.webp)
 
 4. Plugin 1.0.2 installed
 
-![Plugin 1.0.2 installed](https://markvault.app/img/guide/step2-codex-06-installed-en.webp)
+![Plugin 1.0.2 installed](https://markvault.app/img/guide/step2-codex-06-installed-en-v2.webp)
 
 5. Start a new conversation, send the first message above, and allow the tool connection
 
-![Start a new conversation, send the first message above, and allow the tool connection](https://markvault.app/img/guide/step3-codex-02-confirm-en.webp)
+![Start a new conversation, send the first message above, and allow the tool connection](https://markvault.app/img/guide/step3-codex-02-confirm-en-v2.webp)
 
 6. Demo reply: 36 saved bookmarks
 
-![Demo reply: 36 saved bookmarks](https://markvault.app/img/guide/step3-codex-03-count-en.webp)
+![Demo reply: 36 saved bookmarks](https://markvault.app/img/guide/step3-codex-03-count-en-v2.webp)
 
 ## Other ways: terminal (advanced)
 
