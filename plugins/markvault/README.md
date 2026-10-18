@@ -3,8 +3,13 @@
 English | [简体中文](README.zh-CN.md)
 
 1. Open **Connect AI tools** in MarkVault Settings and wait for access to be ready. A trial or active paid licence is required.
-2. Copy your tool’s install command from the card, paste it into a terminal and press Enter.
+2. Click **Copy repository URL** in the card, add the marketplace in your desktop app using the path below, then install `markvault`.
 3. Start a new conversation and say: **“Please connect my MarkVault library and count my saved bookmarks.”** It finds your archive automatically; if several are found, choose one.
+
+Repository URL: `https://github.com/bknerd2013/markvault-plugins`
+
+- **Claude**: Customize → Plugins → Add → Add marketplace → Add from a repository → paste URL and choose **Use “…”** → Sync → install markvault.
+- **Codex**: Plugins → Add a marketplace → paste URL → install markvault.
 
 See the [illustrated guide](https://markvault.app/guide/ai-tools/).
 
@@ -17,3 +22,13 @@ Use MarkVault MCP to analyze my X bookmarks. First use search_bookmarks to sampl
 ```
 
 Open MarkVault's Overview page to see the charts. Repeating the prompt updates the same blocks.
+
+## Other ways: terminal (advanced)
+
+```sh
+claude plugin marketplace add bknerd2013/markvault-plugins && claude plugin install markvault@markvault-plugins
+```
+
+```sh
+codex plugin marketplace add bknerd2013/markvault-plugins && codex plugin add markvault@markvault-plugins
+```
