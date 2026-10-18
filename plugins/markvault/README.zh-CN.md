@@ -13,7 +13,11 @@
 
 完整步骤见[图文指南](https://markvault.app/zh/guide/ai-tools/)。
 
-Claude Code 需要 Node.js 20 或更高版本；Codex 自带 Node 运行环境。归档保留在本机，只有你提出要求时才会写入概览图表。替换授权文件后，下次调用即会生效。
+仓库内的[安装步骤配图](../../README.zh-CN.md#setup-screenshots)包括两家应用的菜单、地址对话框、插件列表、安装完成态、首次工具确认和演示库回复。
+
+![拾页连接 AI 工具卡片](https://markvault.app/img/guide/step1-card-gui-ready-zh.webp)
+
+Claude 的本地插件需要 Node.js 20 或更高版本；Codex 自带 Node 运行环境。归档保留在本机，只有你提出要求时才会写入概览图表。替换授权文件后，下次调用即会生效。
 
 ## 在概览页生成图表
 
