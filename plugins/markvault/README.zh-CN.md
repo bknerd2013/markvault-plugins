@@ -8,14 +8,14 @@
 
 仓库地址：`https://github.com/bknerd2013/markvault-plugins`
 
-- **Claude**：Customize → Plugins → Add → Add marketplace → Add from a repository → 粘贴地址并选择 **Use “…”** → Sync → 安装 markvault。
-- **Codex**：Plugins → ⚙ → Add → Add a marketplace → 粘贴地址到 Source → Add marketplace → Personal → 点 MarkVault 的 + 安装 markvault。
+- **Claude**：自定义 → 插件 → 添加 → 添加市场 → 从仓库添加 → 粘贴地址并选择 **使用“…”** → 同步 → 发现 → 点 Markvault 的 + 添加插件。
+- **Codex**：插件 → 添加 → 添加插件市场 → 粘贴地址到「来源」 → 添加市场 → 个人 → 点 MarkVault 的 + 安装插件。
 
 完整步骤见[图文指南](https://markvault.app/zh/guide/ai-tools/)。
 
 仓库内的[安装步骤配图](../../README.zh-CN.md#setup-screenshots)包括两家应用的菜单、地址对话框、插件列表、安装完成态、首次工具确认和演示库回复。
 
-![拾页连接 AI 工具卡片](https://markvault.app/img/guide/step1-card-gui-ready-zh.webp)
+![拾页连接 AI 工具卡片](https://markvault.app/img/guide/step1-card-gui-localized-zh.webp)
 
 Claude 的本地插件需要 Node.js 20 或更高版本；Codex 自带 Node 运行环境。归档保留在本机，只有你提出要求时才会写入概览图表。替换授权文件后，下次调用即会生效。
 
