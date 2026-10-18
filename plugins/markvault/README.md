@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-1. Open **Connect AI tools** in MarkVault Settings and wait for access to be ready. A trial or active paid licence is required.
+1. Open **Connect AI tools** in MarkVault Settings and confirm step 1 is ready. The access file is prepared automatically and saved inside your bookmark folder. A trial or active paid licence is required.
 2. Click **Copy repository URL** in the card, add the marketplace in your desktop app using the path below, then install `markvault`.
 3. Start a new conversation and say: **“Please connect my MarkVault library and count my saved bookmarks.”** It finds your archive automatically; if several are found, choose one.
 
@@ -17,7 +17,7 @@ The repository’s [setup screenshots](../../README.md#setup-screenshots) cover 
 
 ![MarkVault Connect AI tools card](https://markvault.app/img/guide/step1-card-gui-localized-en.webp)
 
-Claude’s local plugin needs Node.js 20 or later; Codex supplies its own Node runtime. Your saved archive stays on your computer. The plugin only writes charts when asked; replacing your entitlement file takes effect on the next call.
+Claude’s local plugin needs Node.js 20 or later; Codex supplies its own Node runtime. Your saved archive stays on your computer. The plugin only writes charts when asked; automatically refreshed access takes effect on the next call.
 
 ## Add charts to Overview
 
