@@ -2,14 +2,38 @@
   "name": "markvault",
   "version": "1.0.3",
   "description": "Search your MarkVault X bookmark archive and write charts to its Overview page.",
-  "author": { "name": "MarkVault" },
+  "author": {
+    "name": "MarkVault"
+  },
   "homepage": "https://markvault.app",
+  "repository": "https://github.com/bknerd2013/markvault-plugins",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "x",
+    "twitter",
+    "bookmarks",
+    "markvault",
+    "archive",
+    "search",
+    "mcp"
+  ],
   "mcpServers": "./.codex-plugin/mcp.json",
   "interface": {
     "displayName": "MarkVault",
     "shortDescription": "Search your saved X bookmarks and create Overview charts.",
     "developerName": "MarkVault",
     "category": "Productivity",
-    "defaultPrompt": ["Connect my MarkVault archive folder.", "Count my saved bookmarks."]
+    "defaultPrompt": [
+      "Connect my MarkVault archive folder.",
+      "Count my saved bookmarks."
+    ],
+    "longDescription": "MarkVault keeps your X bookmarks in a local archive. This plugin lets the model search that archive, count bookmarks by theme or period, open a saved post, and write charts back to MarkVault's Overview page. Nothing leaves your computer; a 14-day trial or paid licence includes MCP access.",
+    "logo": "./assets/logo.png",
+    "composerIcon": "./assets/icon.png",
+    "brandColor": "#0F6B5C",
+    "websiteURL": "https://markvault.app",
+    "privacyPolicyURL": "https://markvault.app/privacy/",
+    "termsOfServiceURL": "https://markvault.app/terms/",
+    "screenshots": []
   }
 }

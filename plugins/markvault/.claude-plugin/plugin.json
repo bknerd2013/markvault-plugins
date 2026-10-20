@@ -2,6 +2,9 @@
   "name": "markvault",
   "version": "1.0.3",
   "description": "Search your MarkVault X bookmark archive and write charts to its Overview page.",
-  "author": { "name": "MarkVault" },
-  "homepage": "https://markvault.app"
+  "author": {
+    "name": "MarkVault"
+  },
+  "homepage": "https://markvault.app",
+  "repository": "https://github.com/bknerd2013/markvault-plugins"
 }
