@@ -99,8 +99,6 @@
 
 点击 markvault-plugins 旁的「升级」，等待按钮停止转圈。本次验证中，已安装的插件随市场一并更新，没有单独的「更新插件」步骤。然后在设置的「插件 → MarkVault」中核对「版本」，并确认插件仍已启用。「markvault-plugins 市场已升级」在没有新版本时也会出现，须以版本号判断结果。
 
-2026 年 10 月 21 日，已在正式 GitHub 市场验证 1.0.4 → 1.0.5 原位升级。管理页和详情页均显示 1.0.5，MarkVault 保持启用。本次没有重启应用，也没有调用升级后的工具，因此运行中的 MCP 服务是否已使用新版代码仍待验证。
-
 ![升级前：版本 1.0.4，来源为正式 markvault-plugins 市场](https://markvault.app/img/guide/upgrade-codex-105-01-before-version-1.0.4-zh-v1.webp)
 
 ![在「设置 → 插件 → 市场」点击 markvault-plugins 旁的「升级」](https://markvault.app/img/guide/upgrade-codex-105-02-marketplace-upgrade-button-zh-v1.webp)

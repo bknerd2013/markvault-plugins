@@ -99,8 +99,6 @@ Settings → Plugins → Marketplace → markvault-plugins → Upgrade
 
 Click Upgrade beside markvault-plugins and wait for the spinner to finish. In this verified flow, the installed plugin updates with the marketplace; there is no separate plugin-level Update step. Then open Plugins → MarkVault in Settings to check Version, and confirm that the plugin remains enabled. The “markvault-plugins marketplace upgraded” notification also appears when no new version is available; use the version number to check the result.
 
-On October 21, 2026, we verified an in-place upgrade from 1.0.4 to 1.0.5 through the official GitHub marketplace. Both the management and detail pages showed 1.0.5, and MarkVault stayed enabled. The app was not restarted during the check. No post-upgrade tool call was made, so the running MCP service’s code version remains unverified.
-
 ![Before upgrading: version 1.0.4 from the official markvault-plugins marketplace](https://markvault.app/img/guide/upgrade-codex-105-01-before-version-1.0.4-en-v1.webp)
 
 ![Click Upgrade beside markvault-plugins in Settings → Plugins → Marketplace](https://markvault.app/img/guide/upgrade-codex-105-02-marketplace-upgrade-button-en-v1.webp)
