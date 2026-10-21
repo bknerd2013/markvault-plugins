@@ -99,7 +99,7 @@ Settings → Plugins → Marketplace → markvault-plugins → Upgrade
 
 Click Upgrade beside markvault-plugins and wait for the spinner to finish. Then open Plugins → MarkVault in Settings and check Version and the enabled switch in the plugin list. The “markvault-plugins marketplace upgraded” notification confirms a marketplace sync; it does not prove the installed plugin changed version.
 
-In our October 21, 2026 check, MarkVault was already at the public version 1.0.4 before and after the sync. No plugin-level Update button appeared. An upgrade from an older installed version and a post-upgrade tool call have not yet been verified in Codex.
+In our October 21, 2026 check, MarkVault was already at the public version 1.0.4 before and after the sync. No plugin-level Update button appeared. An upgrade from an older installed version through the GitHub marketplace and a post-upgrade tool call have not yet been verified in Codex.
 
 ![Find Upgrade on the Marketplace tab in Settings](https://markvault.app/img/guide/upgrade-codex-02-marketplace-upgrade-button-en-v1.webp)
 

@@ -99,7 +99,7 @@
 
 点击 markvault-plugins 旁的「升级」，等待按钮停止转圈。然后在设置的「插件 → MarkVault」中查看「版本」，并在插件列表核对启用开关。「markvault-plugins 市场已升级」只表示市场同步完成，不能证明已安装的插件更换了版本。
 
-2026 年 10 月 21 日核对时，同步前后均为公开最新版 1.0.4，界面未出现插件级「更新」按钮。Codex 从旧版升级及升级后的工具调用仍待验证。
+2026 年 10 月 21 日核对时，同步前后均为公开最新版 1.0.4，界面未出现插件级「更新」按钮。Codex 通过 GitHub 市场从旧版升级及升级后的工具调用仍待验证。
 
 ![在设置的「市场」页签找到「升级」](https://markvault.app/img/guide/upgrade-codex-02-marketplace-upgrade-button-zh-v1.webp)
 
