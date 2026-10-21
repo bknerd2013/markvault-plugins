@@ -37,13 +37,13 @@ Customize → Plugins → Yours → Markvault → ⋯ → Check for updates → 
 
 Open the installed Markvault plugin, choose Check for updates from its ⋯ menu, then click Update when an update is available. If the page keeps showing the previous update time, quit and reopen Claude, then check the version and enabled switch again. In our check, version 1.0.4 was confirmed after restarting; the version shown before clicking Update can already be the marketplace version.
 
-### Codex: sync the marketplace and check the version
+### Codex: upgrade from the marketplace
 
 Settings → Plugins → Marketplace → markvault-plugins → Upgrade
 
-Click Upgrade beside markvault-plugins and wait for the spinner to finish. Then open Plugins → MarkVault in Settings and check Version and the enabled switch in the plugin list. The “markvault-plugins marketplace upgraded” notification confirms a marketplace sync; it does not prove the installed plugin changed version.
+Click Upgrade beside markvault-plugins and wait for the spinner to finish. In this verified flow, the installed plugin updates with the marketplace; there is no separate plugin-level Update step. Then open Plugins → MarkVault in Settings to check Version, and confirm that the plugin remains enabled. The “markvault-plugins marketplace upgraded” notification also appears when no new version is available; use the version number to check the result.
 
-In our October 21, 2026 check, MarkVault was already at the public version 1.0.4 before and after the sync. No plugin-level Update button appeared. An upgrade from an older installed version through the GitHub marketplace and a post-upgrade tool call have not yet been verified in Codex.
+On October 21, 2026, we verified an in-place upgrade from 1.0.4 to 1.0.5 through the official GitHub marketplace. Both the management and detail pages showed 1.0.5, and MarkVault stayed enabled. The app was not restarted during the check. No post-upgrade tool call was made, so the running MCP service’s code version remains unverified.
 
 After an update, start a new conversation and ask MarkVault to connect to your library and count your bookmarks. Allow the tool connection if asked, then check the result against your own library; 36 is the size of our demo library, not an expected count for every user.
 

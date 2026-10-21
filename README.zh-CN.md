@@ -93,19 +93,21 @@
 
 ![重新打开 Claude 后：版本 1.0.4、已启用，「更新」按钮不可点](https://markvault.app/img/guide/upgrade-claude-05-after-restart-zh-v1.webp)
 
-### Codex：同步市场并核对版本
+### Codex：从市场升级插件
 
 设置 → 插件 → 市场 → markvault-plugins → 升级
 
-点击 markvault-plugins 旁的「升级」，等待按钮停止转圈。然后在设置的「插件 → MarkVault」中查看「版本」，并在插件列表核对启用开关。「markvault-plugins 市场已升级」只表示市场同步完成，不能证明已安装的插件更换了版本。
+点击 markvault-plugins 旁的「升级」，等待按钮停止转圈。本次验证中，已安装的插件随市场一并更新，没有单独的「更新插件」步骤。然后在设置的「插件 → MarkVault」中核对「版本」，并确认插件仍已启用。「markvault-plugins 市场已升级」在没有新版本时也会出现，须以版本号判断结果。
 
-2026 年 10 月 21 日核对时，同步前后均为公开最新版 1.0.4，界面未出现插件级「更新」按钮。Codex 通过 GitHub 市场从旧版升级及升级后的工具调用仍待验证。
+2026 年 10 月 21 日，已在正式 GitHub 市场验证 1.0.4 → 1.0.5 原位升级。管理页和详情页均显示 1.0.5，MarkVault 保持启用。本次没有重启应用，也没有调用升级后的工具，因此运行中的 MCP 服务是否已使用新版代码仍待验证。
 
-![在设置的「市场」页签找到「升级」](https://markvault.app/img/guide/upgrade-codex-02-marketplace-upgrade-button-zh-v1.webp)
+![升级前：版本 1.0.4，来源为正式 markvault-plugins 市场](https://markvault.app/img/guide/upgrade-codex-105-01-before-version-1.0.4-zh-v1.webp)
 
-![提示只确认市场已同步](https://markvault.app/img/guide/upgrade-codex-04-marketplace-upgraded-toast-zh-v1.webp)
+![在「设置 → 插件 → 市场」点击 markvault-plugins 旁的「升级」](https://markvault.app/img/guide/upgrade-codex-105-02-marketplace-upgrade-button-zh-v1.webp)
 
-![重新打开 MarkVault 设置核对版本，本次仍为 1.0.4](https://markvault.app/img/guide/upgrade-codex-05-current-version-zh-v1.webp)
+![升级后：版本 1.0.5，来源仍为同一正式市场](https://markvault.app/img/guide/upgrade-codex-105-05-updated-version-1.0.5-zh-v1.webp)
+
+![升级后再次检查：版本仍为 1.0.5 时，也会出现相同提示](https://markvault.app/img/guide/upgrade-codex-105-06-recheck-toast-zh-v1.webp)
 
 更新后新建对话，请 MarkVault 连接收藏库并统计收藏数；出现工具连接确认时同意，再与自己的收藏库核对。36 条是演示库的数量，不是每位用户都应得到的结果。
 
