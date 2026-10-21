@@ -8,7 +8,7 @@ English | [简体中文](README.zh-CN.md)
 
 Repository URL: `https://github.com/bknerd2013/markvault-plugins`
 
-- **Claude**: Customize → Plugins → Add → Add marketplace → Add from a repository → paste URL and choose **Use “…”** → Sync → click Add on Markvault.
+- **Claude**: Customize → Plugins → Add → Add marketplace → Add from a repository → paste URL and choose **Use “…”** → Sync → Discover → click Add on Markvault.
 - **Codex**: Plugins → ⚙ → Add → Add a marketplace → paste URL into Source → Add marketplace → Personal → click + on MarkVault to install markvault.
 
 See the [illustrated guide](https://markvault.app/guide/ai-tools/).
