@@ -9,7 +9,7 @@
       "name": "markvault",
       "source": "./plugins/markvault",
       "description": "Search your MarkVault X bookmark archive and write charts to its Overview page.",
-      "version": "1.0.3"
+      "version": "1.0.4"
     }
   ],
   "description": "MarkVault archive search and Overview charts for local AI tools."
