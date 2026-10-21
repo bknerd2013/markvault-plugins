@@ -24,7 +24,7 @@ Claude 的本地插件需要 Node.js 20 或更高版本；Codex 自带 Node 运�
 复制下面的提示词：
 
 ```text
-请使用 MarkVault MCP 分析我的 X 收藏。先用 search_bookmarks 抽样查看不同时期的内容，识别 6 到 10 个主题，并列出每个主题的关键词。再用 count_bookmarks 按月统计各主题的命中数，同时告诉我没有命中任何主题的收藏占比。如果未命中超过两成，再调用一次 count_bookmarks 并把 unmatched_sample 设为 30，查看这些没有归入任何主题的收藏，为它们的共同内容补充关键词或新增主题后重新统计，最多补一轮。最后用 write_overview_block 写回三个概览区块：主题分布，id 为 theme-share，使用 bars；各主题的占比随时间变化，id 为 theme-trend，使用 lines，unit 为 percent；主题与年份的交叉表，id 为 theme-by-year，使用 table，matrix 为 true，主题作为行、年份作为列，unit 为 percent。在 method 中说明使用了多少组关键词，以及如何匹配。
+请使用 MarkVault MCP 分析我的 X 收藏。先用 search_bookmarks 抽样查看不同时期的内容，识别 6 到 10 个主题，并列出每个主题的关键词。再用 count_bookmarks 按月统计各主题的命中数，同时告诉我没有命中任何主题的收藏占比。如果未命中超过一成，再调用一次 count_bookmarks 并把 unmatched_sample 设为 30，查看这些没有归入任何主题的收藏，为它们的共同内容补充关键词或新增主题后重新统计，最多补一轮。最后用 write_overview_block 写回三个概览区块：主题分布，id 为 theme-share，使用 bars；各主题的占比随时间变化，id 为 theme-trend，使用 lines，unit 为 percent；主题与年份的交叉表，id 为 theme-by-year，使用 table，matrix 为 true，主题作为行、年份作为列，unit 为 percent。在 method 中说明使用了多少组关键词，以及如何匹配。
 ```
 
 打开拾页的概览页即可查看图表。再次使用相同提示词，会更新同名区块。
