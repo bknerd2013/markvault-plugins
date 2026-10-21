@@ -10,7 +10,7 @@ Search your saved X bookmarks with the Claude or Codex desktop app, and add char
 
 Repository URL: `https://github.com/bknerd2013/markvault-plugins`
 
-- **Claude**: Customize → Plugins → Add → Add marketplace → Add from a repository → paste URL and choose **Use “…”** → Sync → click Add on Markvault.
+- **Claude**: Customize → Plugins → Add → Add marketplace → Add from a repository → paste URL and choose **Use “…”** → Sync → Discover → click Add on Markvault.
 - **Codex**: Plugins → ⚙ → Add → Add a marketplace → paste URL into Source → Add marketplace → Personal → click + on MarkVault to install markvault.
 
 See the [illustrated guide](https://markvault.app/guide/ai-tools/).
@@ -35,9 +35,9 @@ Screenshots use the English interface, English questions, and English replies. T
 
 ![Enter the URL, choose Use “…” and click Sync](https://markvault.app/img/guide/step2-claude-03-url-en-v2.webp)
 
-3. Find Markvault in the plugin list
+3. Open Discover and click Add on Markvault
 
-![Find Markvault in the plugin list](https://markvault.app/img/guide/step2-claude-04-list-en-v2.webp)
+![Open Discover and click Add on Markvault](https://markvault.app/img/guide/step2-claude-04-list-en-v3.webp)
 
 4. Plugin installed
 
