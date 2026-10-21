@@ -77,6 +77,40 @@ Screenshots use the English interface, English questions, and English replies. T
 
 ![Demo reply: 36 saved bookmarks](https://markvault.app/img/guide/step3-codex-03-count-en-v2.webp)
 
+## Update an installed plugin
+
+Start by checking for updates in the desktop app, keeping the existing plugin and marketplace in place.
+
+### Claude: check for updates
+
+Customize → Plugins → Yours → Markvault → ⋯ → Check for updates → Update
+
+Open the installed Markvault plugin, choose Check for updates from its ⋯ menu, then click Update when an update is available. If the page keeps showing the previous update time, quit and reopen Claude, then check the version and enabled switch again. In our check, version 1.0.4 was confirmed after restarting; the version shown before clicking Update can already be the marketplace version.
+
+![Choose Check for updates from the installed plugin’s menu](https://markvault.app/img/guide/upgrade-claude-02-check-menu-en-v1.webp)
+
+![Click Update when it is available](https://markvault.app/img/guide/upgrade-claude-03-available-en-v1.webp)
+
+![After reopening Claude: version 1.0.4, enabled, with Update disabled](https://markvault.app/img/guide/upgrade-claude-05-after-restart-en-v1.webp)
+
+### Codex: sync the marketplace and check the version
+
+Settings → Plugins → Marketplace → markvault-plugins → Upgrade
+
+Click Upgrade beside markvault-plugins and wait for the spinner to finish. Then open Plugins → MarkVault in Settings and check Version and the enabled switch in the plugin list. The “markvault-plugins marketplace upgraded” notification confirms a marketplace sync; it does not prove the installed plugin changed version.
+
+In our October 21, 2026 check, MarkVault was already at the public version 1.0.4 before and after the sync. No plugin-level Update button appeared. An upgrade from an older installed version and a post-upgrade tool call have not yet been verified in Codex.
+
+![Find Upgrade on the Marketplace tab in Settings](https://markvault.app/img/guide/upgrade-codex-02-marketplace-upgrade-button-en-v1.webp)
+
+![The notification confirms that the marketplace was synced](https://markvault.app/img/guide/upgrade-codex-04-marketplace-upgraded-toast-en-v1.webp)
+
+![Reopen MarkVault settings and check Version (1.0.4 in this check)](https://markvault.app/img/guide/upgrade-codex-05-current-version-en-v1.webp)
+
+After an update, start a new conversation and ask MarkVault to connect to your library and count your bookmarks. Allow the tool connection if asked, then check the result against your own library; 36 is the size of our demo library, not an expected count for every user.
+
+[Illustrated update steps](https://markvault.app/guide/ai-tools/#plugin-updates)
+
 ## Other ways: terminal (advanced)
 
 Claude Code:

@@ -27,6 +27,28 @@ Use MarkVault MCP to analyze my X bookmarks. First use search_bookmarks to sampl
 
 Open MarkVault's Overview page to see the charts. Repeating the prompt updates the same blocks.
 
+## Update an installed plugin
+
+Start by checking for updates in the desktop app, keeping the existing plugin and marketplace in place.
+
+### Claude: check for updates
+
+Customize → Plugins → Yours → Markvault → ⋯ → Check for updates → Update
+
+Open the installed Markvault plugin, choose Check for updates from its ⋯ menu, then click Update when an update is available. If the page keeps showing the previous update time, quit and reopen Claude, then check the version and enabled switch again. In our check, version 1.0.4 was confirmed after restarting; the version shown before clicking Update can already be the marketplace version.
+
+### Codex: sync the marketplace and check the version
+
+Settings → Plugins → Marketplace → markvault-plugins → Upgrade
+
+Click Upgrade beside markvault-plugins and wait for the spinner to finish. Then open Plugins → MarkVault in Settings and check Version and the enabled switch in the plugin list. The “markvault-plugins marketplace upgraded” notification confirms a marketplace sync; it does not prove the installed plugin changed version.
+
+In our October 21, 2026 check, MarkVault was already at the public version 1.0.4 before and after the sync. No plugin-level Update button appeared. An upgrade from an older installed version and a post-upgrade tool call have not yet been verified in Codex.
+
+After an update, start a new conversation and ask MarkVault to connect to your library and count your bookmarks. Allow the tool connection if asked, then check the result against your own library; 36 is the size of our demo library, not an expected count for every user.
+
+[Illustrated update steps](https://markvault.app/guide/ai-tools/#plugin-updates)
+
 ## Other ways: terminal (advanced)
 
 ```sh
