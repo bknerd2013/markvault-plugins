@@ -41,7 +41,7 @@ Customize → Plugins → Yours → Markvault → ⋯ → Check for updates → 
 
 3. **Click Update when it becomes available** In this check, the page still showed 1.0.4 before clicking Update.
 
-4. **Check the version and enabled switch; if the update time is still old, quit and reopen Claude, then check again** On October 22, 2026, we verified an in-place upgrade from 1.0.4 to 1.0.6. After reopening Claude, 1.0.6 remained enabled and Update was disabled.
+4. **Check the version and enabled switch; if the update time is still old, quit and reopen Claude, then check again**
 
 ### Codex: upgrade from the marketplace
 

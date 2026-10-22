@@ -97,7 +97,7 @@
 
    ![「更新」变为可点击后，点击更新；此时页面仍显示 1.0.4](https://markvault.app/img/guide/upgrade-claude-106-03-available-zh-v1.webp)
 
-4. **核对版本和启用开关；如果更新时间仍未变，退出并重新打开 Claude，再次核对** 2026 年 10 月 22 日，已验证 1.0.4 → 1.0.6 原位升级；重新打开 Claude 后，1.0.6 保持启用，「更新」按钮不可点。
+4. **核对版本和启用开关；如果更新时间仍未变，退出并重新打开 Claude，再次核对**
 
    ![重新打开 Claude 后：版本 1.0.6、已启用，「更新」按钮不可点](https://markvault.app/img/guide/upgrade-claude-106-07-after-restart-1.0.6-zh-v1.webp)
 

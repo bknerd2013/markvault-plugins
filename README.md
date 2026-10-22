@@ -97,7 +97,7 @@ Customize → Plugins → Yours → Markvault → ⋯ → Check for updates → 
 
    ![Click Update when it becomes available; this page still shows 1.0.4](https://markvault.app/img/guide/upgrade-claude-106-03-available-en-v1.webp)
 
-4. **Check the version and enabled switch; if the update time is still old, quit and reopen Claude, then check again** On October 22, 2026, we verified an in-place upgrade from 1.0.4 to 1.0.6. After reopening Claude, 1.0.6 remained enabled and Update was disabled.
+4. **Check the version and enabled switch; if the update time is still old, quit and reopen Claude, then check again**
 
    ![After reopening Claude: version 1.0.6, enabled, with Update disabled](https://markvault.app/img/guide/upgrade-claude-106-07-after-restart-1.0.6-en-v1.webp)
 
