@@ -17,7 +17,7 @@
 
 ![拾页连接 AI 工具卡片](https://markvault.app/img/guide/step1-card-gui-localized-zh.webp)
 
-Claude 的本地插件需要 Node.js 20 或更高版本；Codex 自带 Node 运行环境。归档保留在本机，只有你提出要求时才会写入概览图表。自动更新的授权会在下次调用时生效。
+Claude 的本地插件需要 Node.js 22 或更高版本；Codex 自带 Node 运行环境。归档保留在本机，只有你提出要求时才会写入概览图表。自动更新的授权会在下次调用时生效。
 
 ## 在概览页生成图表
 

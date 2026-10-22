@@ -17,7 +17,7 @@ The repository’s [setup screenshots](../../README.md#setup-screenshots) cover 
 
 ![MarkVault Connect AI tools card](https://markvault.app/img/guide/step1-card-gui-localized-en.webp)
 
-Claude’s local plugin needs Node.js 20 or later; Codex supplies its own Node runtime. Your saved archive stays on your computer. The plugin only writes charts when asked; automatically refreshed access takes effect on the next call.
+Claude’s local plugin needs Node.js 22 or later; Codex supplies its own Node runtime. Your saved archive stays on your computer. The plugin only writes charts when asked; automatically refreshed access takes effect on the next call.
 
 ## Add charts to Overview
 
