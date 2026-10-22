@@ -85,13 +85,21 @@ Start by checking for updates in the desktop app, keeping the existing plugin an
 
 Customize → Plugins → Yours → Markvault → ⋯ → Check for updates → Update
 
-Open the installed Markvault plugin, choose Check for updates from its ⋯ menu, then click Update when an update is available. If the page keeps showing the previous update time, quit and reopen Claude, then check the version and enabled switch again. In our check, version 1.0.4 was confirmed after restarting; the version shown before clicking Update can already be the marketplace version.
+1. **Before checking, open the installed Markvault plugin and note its version** The screenshot shows 1.0.4 from the official markvault-plugins marketplace.
 
-![Choose Check for updates from the installed plugin’s menu](https://markvault.app/img/guide/upgrade-claude-02-check-menu-en-v1.webp)
+   ![Before checking: version 1.0.4 from the official markvault-plugins marketplace](https://markvault.app/img/guide/upgrade-claude-106-01-before-1.0.4-en-v1.webp)
 
-![Click Update when it is available](https://markvault.app/img/guide/upgrade-claude-03-available-en-v1.webp)
+2. **Choose Check for updates from the plugin’s ⋯ menu**
 
-![After reopening Claude: version 1.0.4, enabled, with Update disabled](https://markvault.app/img/guide/upgrade-claude-05-after-restart-en-v1.webp)
+   ![Choose Check for updates from the installed plugin’s menu](https://markvault.app/img/guide/upgrade-claude-106-02-check-menu-en-v1.webp)
+
+3. **Click Update when it becomes available** In this check, the page still showed 1.0.4 before clicking Update.
+
+   ![Click Update when it becomes available; this page still shows 1.0.4](https://markvault.app/img/guide/upgrade-claude-106-03-available-en-v1.webp)
+
+4. **Check the version and enabled switch; if the update time is still old, quit and reopen Claude, then check again** On October 22, 2026, we verified an in-place upgrade from 1.0.4 to 1.0.6. After reopening Claude, 1.0.6 remained enabled and Update was disabled.
+
+   ![After reopening Claude: version 1.0.6, enabled, with Update disabled](https://markvault.app/img/guide/upgrade-claude-106-07-after-restart-1.0.6-en-v1.webp)
 
 ### Codex: upgrade from the marketplace
 

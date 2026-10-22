@@ -85,13 +85,21 @@
 
 自定义 → 插件 → 我的 → Markvault → ⋯ → 检查更新 → 更新
 
-打开已安装的 Markvault，在 ⋯ 菜单中选择「检查更新」，有可用更新时点击「更新」。如果页面仍显示旧的更新时间，退出并重新打开 Claude，再核对版本和启用开关。本次在重启后确认版本为 1.0.4；点击「更新」之前，页面显示的版本也可能已经是市场版本。
+1. **检查前，打开已安装的 Markvault，记下版本** 截图中为 1.0.4，来源为正式 markvault-plugins 市场。
 
-![在已安装插件的菜单中选择「检查更新」](https://markvault.app/img/guide/upgrade-claude-02-check-menu-zh-v1.webp)
+   ![检查前：版本 1.0.4，来源为正式 markvault-plugins 市场](https://markvault.app/img/guide/upgrade-claude-106-01-before-1.0.4-zh-v1.webp)
 
-![有可用更新时点击「更新」](https://markvault.app/img/guide/upgrade-claude-03-available-zh-v1.webp)
+2. **在插件的 ⋯ 菜单中选择「检查更新」**
 
-![重新打开 Claude 后：版本 1.0.4、已启用，「更新」按钮不可点](https://markvault.app/img/guide/upgrade-claude-05-after-restart-zh-v1.webp)
+   ![在已安装插件的菜单中选择「检查更新」](https://markvault.app/img/guide/upgrade-claude-106-02-check-menu-zh-v1.webp)
+
+3. **「更新」变为可点击后，点击更新** 本次点击「更新」之前，页面仍显示 1.0.4。
+
+   ![「更新」变为可点击后，点击更新；此时页面仍显示 1.0.4](https://markvault.app/img/guide/upgrade-claude-106-03-available-zh-v1.webp)
+
+4. **核对版本和启用开关；如果更新时间仍未变，退出并重新打开 Claude，再次核对** 2026 年 10 月 22 日，已验证 1.0.4 → 1.0.6 原位升级；重新打开 Claude 后，1.0.6 保持启用，「更新」按钮不可点。
+
+   ![重新打开 Claude 后：版本 1.0.6、已启用，「更新」按钮不可点](https://markvault.app/img/guide/upgrade-claude-106-07-after-restart-1.0.6-zh-v1.webp)
 
 ### Codex：从市场升级插件
 

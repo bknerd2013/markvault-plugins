@@ -35,7 +35,13 @@ Start by checking for updates in the desktop app, keeping the existing plugin an
 
 Customize → Plugins → Yours → Markvault → ⋯ → Check for updates → Update
 
-Open the installed Markvault plugin, choose Check for updates from its ⋯ menu, then click Update when an update is available. If the page keeps showing the previous update time, quit and reopen Claude, then check the version and enabled switch again. In our check, version 1.0.4 was confirmed after restarting; the version shown before clicking Update can already be the marketplace version.
+1. **Before checking, open the installed Markvault plugin and note its version** The screenshot shows 1.0.4 from the official markvault-plugins marketplace.
+
+2. **Choose Check for updates from the plugin’s ⋯ menu**
+
+3. **Click Update when it becomes available** In this check, the page still showed 1.0.4 before clicking Update.
+
+4. **Check the version and enabled switch; if the update time is still old, quit and reopen Claude, then check again** On October 22, 2026, we verified an in-place upgrade from 1.0.4 to 1.0.6. After reopening Claude, 1.0.6 remained enabled and Update was disabled.
 
 ### Codex: upgrade from the marketplace
 
