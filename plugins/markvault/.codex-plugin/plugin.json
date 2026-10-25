@@ -1,6 +1,6 @@
 {
   "name": "markvault",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Search your MarkVault X bookmark archive and write charts to its Overview page.",
   "author": {
     "name": "MarkVault"
